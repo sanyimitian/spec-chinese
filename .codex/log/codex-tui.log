@@ -1,0 +1,4 @@
+[2m2026-01-04T04:02:07.021821Z[0m [31mERROR[0m Failed to read auth.json: No such file or directory (os error 2)
+[2m2026-01-04T04:02:13.058092Z[0m [32m INFO[0m Shutting down Codex instance
+[2m2026-01-04T05:39:56.434142Z[0m [31mERROR[0m Failed to read auth.json: No such file or directory (os error 2)
+[2m2026-01-04T05:41:21.769202Z[0m [32m INFO[0m Shutting down Codex instance
