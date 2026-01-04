@@ -1,2 +1,4 @@
+model = "gpt-5-codex"
+model_reasoning_effort = "high"
 [projects."/home/pan/Desktop/code/test/spec_demo"]
 trust_level = "trusted"
